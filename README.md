@@ -1,5 +1,10 @@
 # ⚡ Welcome to the Core Engine of @compiledbyutkarsh
 
+<p>
+  <img src="https://img.shields.io/badge/Main_Focus-Systems_Engineering_%26_AI-blue" alt="Focus">
+  <img src="https://img.shields.io/badge/Core_Stack-Java_%7C_Python_%7C_Javascript-orange" alt="Stack">
+</p>
+
 ### 🛠️ Software Architect & Systems Developer
 Focusing on building high-performance desktop architectures, multi-threaded networking tools, intelligent automation models, and scalable full-stack web systems. Managing complete project lifecycles from data persistence pipelines to complex system-native UI execution.
 
@@ -26,7 +31,7 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 
 ### 🌐 Connect with my Core Networks
 
-[**🔗 LinkedIn**](YAHAN_APNA_LINKEDIN_LINK_DALO) | [**📧 Email**](mailto:YAHAN_APNA_EMAIL_DALO)
+[**🔗 LinkedIn**](YOUR_LINKEDIN_URL_HERE) | [**📧 Email**](mailto:YOUR_EMAIL_HERE)
 
 ---
 
