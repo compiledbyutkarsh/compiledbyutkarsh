@@ -31,7 +31,7 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 
 ### 🌐 Connect with my Core Networks
 
-[**🔗 LinkedIn**](YOUR_LINKEDIN_URL_HERE) | [**📧 Email**](mailto:YOUR_EMAIL_HERE)
+[**🔗 LinkedIn**][(YOUR_LINKEDIN_URL_HERE)](Https://www.linkedin.com/in/utkarsh-sachan-646876370?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [**📧 Email**](mailto:utkarshsachan2022@gmail.com)
 
 ---
 
