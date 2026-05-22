@@ -6,7 +6,7 @@
 </p>
 
 ### 🛠️ Software Architect & Systems Developer
-Focusing on building high-performance desktop architectures, multi-threaded networking tools, intelligent automation models, and scalable full-stack web systems. Managing complete project lifecycles from data persistence pipelines to complex system-native UI execution.
+Focusing on building high-performance desktop architectures, multi-threaded networking tools, intelligent automation models, and scalable full-stack web systems. 
 
 ---
 
@@ -14,10 +14,10 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 
 | Domain | Systems & Application Matrix | Key Frameworks & Core Logic Engine |
 | :--- | :--- | :--- |
-| **Desktop & Systems** | • Smart Dashboard Suite <br> • Windows App Ecosystem | `Java Swing`, `AWT`, `C#`, `WPF`, `Multi-threading` |
-| **Artificial Intelligence** | • Real-time Face Detection <br> • Neural Network Models | `Python`, `OpenCV`, `PyTorch`, `TensorFlow` |
-| **Networking & Utilities** | • VPN Client/Server Pipeline <br> • System-Level Controllers | `Go`, `Java Sockets`, `C++`, `Arduino` |
-| **Full-Stack Web** | • Chat App Engine <br> • Social Media Clones | `React.js`, `Node.js`, `Socket.io`, `MongoDB` |
+| **Desktop & Systems** | • Smart Dashboard Suite <br> • Windows App Ecosystem <br> • Native Music Player Engine | `Java Swing`, `AWT`, `C#`, `WPF`, `Multi-threading`, `JDBC` |
+| **Artificial Intelligence** | • Real-time Face Detection <br> • Neural Network Models <br> • Automation Engines | `Python`, `OpenCV`, `MediaPipe`, `PyTorch`, `TensorFlow`, `NumPy` |
+| **Networking & Utilities** | • VPN Client/Server Pipeline <br> • Speech Recognition Engine <br> • System-Level Controllers | `Go (Golang)`, `Java Sockets`, `gTTS`, `C++`, `Arduino IDE` |
+| **Full-Stack Web** | • Chat App Engine <br> • Social Media Clones <br> • Progressive Web Apps (PWA) | `JavaScript`, `React.js`, `Node.js`, `Socket.io`, `MongoDB`, `Tailwind CSS`, `Vite` |
 
 ---
 
@@ -27,7 +27,6 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
   <a href="https://www.linkedin.com/in/utkarsh-sachan-646876370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:utkarshsachan2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -35,14 +34,24 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 
 ---
 
-## 💻 Technologies & Tools Ecosystem
+## 💻 Full Technologies & Tools Ecosystem
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
 ---
