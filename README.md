@@ -14,31 +14,22 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 
 | Domain | Systems & Application Matrix | Key Frameworks & Core Logic Engine |
 | :--- | :--- | :--- |
-| **Desktop & Systems** | • Smart Dashboard Suite <br> • Windows App Ecosystem <br> • Native Music Player Engine | `Java Swing`, `AWT`, `C#`, `WPF`, `Multi-threading`, `Local I/O Persistence` |
-| **Artificial Intelligence** | • Real-time Face Detection Systems <br> • Neural Network Deep Learning Models <br> • Automation Engines & Schedulers | `Python`, `OpenCV`, `MediaPipe`, `PyTorch`, `TensorFlow`, `NumPy`, `Automation APIs` |
-| **Networking & Utilities** | • Secure VPN Client/Server Pipeline <br> • Speech Recognition Native Interface <br> • System-Level Device Controllers | `Go (Golang)`, `Java Networking Sockets`, `SpeechRecognition API`, `gTTS`, `C++ / Arduino IDE` |
-| **Full-Stack Web** | • Real-time Chat App Engine <br> • Social Media Architecture Clones <br> • Progressive Web Applications (PWA) | `JavaScript (ES6+)`, `React.js`, `Node.js`, `Socket.io`, `MongoDB`, `Tailwind CSS`, `Vite` |
-
----
-
-## 📩 Stay Updated
-<p align="left">
-  <a href="mailto:utkarshsachan1@gmail.com">
-    <img src="https://img.shields.io/badge/SUBSCRIBE%20TO%20TECH%20DIGEST-🔥-gold?style=for-the-badge&labelColor=black" alt="Newsletter" />
-  </a>
-</p>
+| **Desktop & Systems** | • Smart Dashboard Suite <br> • Windows App Ecosystem | `Java Swing`, `AWT`, `C#`, `WPF`, `Multi-threading` |
+| **Artificial Intelligence** | • Real-time Face Detection <br> • Neural Network Models | `Python`, `OpenCV`, `PyTorch`, `TensorFlow` |
+| **Networking & Utilities** | • VPN Client/Server Pipeline <br> • System-Level Controllers | `Go`, `Java Sockets`, `C++`, `Arduino` |
+| **Full-Stack Web** | • Chat App Engine <br> • Social Media Clones | `React.js`, `Node.js`, `Socket.io`, `MongoDB` |
 
 ---
 
 ## 🌐 Connect with my Core Networks
+
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/utkarsh-sachan-646876370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://github.com/compiledbyutkarsh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <a href="mailto:utkarshsachan2022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -49,25 +40,15 @@ Focusing on building high-performance desktop architectures, multi-threaded netw
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Live System Metrics
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=compiledbyutkarsh&color=00ffcc&style=flat-square&label=PROFILE+VISITS+COUNTER++%5Broot%40github%5D%3A" alt="Profile Counter" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=compiledbyutkarsh&color=00ffcc&style=flat-square&label=PROFILE+VISITS" alt="Profile Counter" />
 
 ---
 <p align="center">
