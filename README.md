@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Main_Focus-Systems_Engineering_%26_AI-blue" alt="Focus">
-  <img src="https://img.shields.io/badge/Core_Stack-Java_%7C_Python_%7C_Javascript-orange" alt="Stack">
+  <img src="https://img.shields.io/badge/Core_Stack-Java_%7C_Python_%7C_Javascript_%7C_C%2B%2B_%7C_C%23_%7C_Rust-orange" alt="Stack">
 </p>
 
 ### 🛠️ Software Architect & Systems Developer
